@@ -3,6 +3,11 @@ A warehouse system that I create out of sheer boredom. Just btw.. 🙂
 
 > [!NOTE]\
 > This resource is **not yet ready** to be used anywhere. The best you can do for now is wait until the script is fully developed.
+
+## ⛔ The current problem
+Soo. At the moment I'm trying to set up some warehouse types like the meth type first. I just need a way to place interior props like normal props at the moment and to be honest I'm getting a bit stuck on it. I don't know how long that will take.
+
+I just want to give everyone the chance to do whatever they want in their warehouse and for example there are two levels for meth: “Basic” and “Upgraded”. I want to use the original props from the GTA Online Meth lab. But they are bound as interior props to the original meth interior.
  
 ## 🚧 A bit of progress I made
 The interior I'm using is a bit empty. A bit too empty. So, I added a few more props to the whole interior to make it more comfy.
